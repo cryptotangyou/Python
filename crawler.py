@@ -8,8 +8,8 @@ import time
 # Email configuration
 SMTP_SERVER = 'smtp.gmail.com'  # Replace with your email provider's SMTP server
 SMTP_PORT = 587
-EMAIL_USER = ''  # Your email address
-EMAIL_PASS = ''  # Your email password
+EMAIL_USER = 'cryptotangyou@gmail.com'  # Your email address
+EMAIL_PASS = 'qbec uwew wwux cjpt'  # Your email password
 TO_EMAIL = 'farmerlesheng@gmail.com'  # Recipient's email address
 
 # Binance URL
@@ -84,4 +84,4 @@ def main():
 if __name__ == "__main__":
     while True:
         main()
-        time.sleep(300)  # Check every 5 minutes
+        time.sleep(60)  # Check every 5 minutes
